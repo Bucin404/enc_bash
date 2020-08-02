@@ -1,6 +1,8 @@
-<h2>Enc-Bash</h2>
+<h1>Enc-Bash</h1>
 
-![Screenshot_2020-08-03-04-19-01-24](https://user-images.githubusercontent.com/46747652/89132736-838e8480-d540-11ea-8522-2423e370d4ff.png)
+<h3>Screenshot</h3>
+
+![Screenshot_2020-08-03-04-50-09-94](https://user-images.githubusercontent.com/46747652/89133301-f437a000-d544-11ea-90e0-a0b734bc837e.png)
 
 <h3>Installing</h3>
 

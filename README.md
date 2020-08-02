@@ -4,7 +4,7 @@
 
 <h3>Installing</h3>
 
-...
+...java
 $ pkg install nodejs
 
 $ npm install -g bash-obfuscate
